@@ -1,4 +1,3 @@
-## Hi there 👋
 <h2 align="left">Hi 👋! My name is Md Rijoan Maruf and I'm a Web Developer, from Bangladesh.</h2>
 
 ###
