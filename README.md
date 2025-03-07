@@ -71,9 +71,11 @@
 
 ###
 
-### 🐍 Snake Eating My Contributions
+### 🌟 Awesome Matrix Animation
 
-![Snake animation](https://github.com/mdrijoanmaruf/mdrijoanmaruf/blob/output/github-contribution-grid-snake.svg)
+![Matrix Animation](https://raw.githubusercontent.com/mdrijoanmaruf/mdrijoanmaruf/main/matrix.svg)
+
+*Replace the above URL with your own matrix animation if you want to customize it.*
 
 ###
 
