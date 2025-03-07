@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Md Rijoan Maruf and I'm a Web Developer, from Bangladesh.</h2>
+<h2 align="left">👋 Hi, I'm Md Rijoan Maruf!</h2>
+<h3 align="left">A passionate Web Developer from Bangladesh 🇧🇩</h3>
 
 ###
 
@@ -9,9 +10,11 @@
 
 ###
 
-<img align="right" height="150" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"  />
+<img align="right" height="150" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Coding Animation" />
 
 ###
+
+### 🛠️ Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -43,6 +46,8 @@
 
 ###
 
+### 🌐 Connect with Me
+
 <div align="left">
   <a href="https://www.facebook.com/md.rijoanmaruf" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
@@ -56,7 +61,9 @@
   <a href="https://www.instagram.com/rijoanmaruf/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+  <a href="https://t.me/yourtelegram" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+  </a>
   <a href="https://wa.me/+8801813606468" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
@@ -64,20 +71,31 @@
 
 ###
 
-<br clear="both">
+### 🐍 Snake Eating My Contributions
 
-<img src="https://raw.githubusercontent.com/mdrijoanmaruf/mdrijoanmaruf/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/mdrijoanmaruf/mdrijoanmaruf/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
+### 🚀 Featured Projects
+
 <div align="center">
-  <img height="304" src="https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d"  />
+  <img height="304" src="https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d" alt="Featured Project" />
 </div>
 
 ###
 
+### 📊 Profile Views
+
 <div align="center">
-  <img src="https://profile-counter.glitch.me/mdrijoanmaruf/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/mdrijoanmaruf/count.svg?" alt="Profile Views" />
 </div>
 
 ###
+
+### 💡 Fun Fact
+I love turning coffee ☕ into code 💻 and solving problems with creativity and logic!
+
+---
+
+⭐️ Feel free to explore my repositories and don't forget to star if you find something interesting!
