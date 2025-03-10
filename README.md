@@ -71,11 +71,7 @@
 
 ###
 
-### 🌟 Awesome Matrix Animation
 
-![Matrix Animation](https://raw.githubusercontent.com/mdrijoanmaruf/mdrijoanmaruf/main/matrix.svg)
-
-*Replace the above URL with your own matrix animation if you want to customize it.*
 
 ###
 
