@@ -91,9 +91,4 @@
 
 ###
 
-### 💡 Fun Fact
-I love turning coffee ☕ into code 💻 and solving problems with creativity and logic!
-
----
-
 ⭐️ Feel free to explore my repositories and don't forget to star if you find something interesting!
