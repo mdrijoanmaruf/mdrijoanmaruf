@@ -61,7 +61,7 @@
 ## 🏆 **GitHub Trophies**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mdrijoanmaruf&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mdrijoanmaruf&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -75,6 +75,37 @@
 <img height="200" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Coding" />
 
 *Stay tuned for some amazing projects that I'm currently working on!*
+
+</div>
+
+---
+
+## 📈 **Coding Activity**
+
+<div align="center">
+
+### 🔥 **My Coding Journey**
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdrijoanmaruf&theme=tokyonight" alt="Profile Summary" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdrijoanmaruf&theme=tokyonight" alt="Repos per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdrijoanmaruf&theme=tokyonight" alt="Most Commit Language" />
+
+</div>
+
+---
+
+## 🎨 **Code Visualization**
+
+<div align="center">
+  
+### 💻 **Lines of Code & Productivity**
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=mdrijoanmaruf&theme=tokyonight&hide_border=true" alt="Wakatime Stats" />
+
+### 🌈 **Language Distribution**
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdrijoanmaruf&layout=donut&theme=tokyonight&hide_border=true" alt="Language Donut Chart" />
 
 </div>
 
@@ -106,20 +137,34 @@
 
 ---
 
+## 🎯 **Current Focus**
+
 <div align="center">
-  
-### 💭 **Random Dev Quote**
-  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🐍 **Watch my contributions get eaten by a snake!**
+```javascript
+const mdrijoanmaruf = {
+    location: "Bangladesh 🇧🇩",
+    currentFocus: "Full-Stack Development",
+    technologies: {
+        frontend: ["React", "JavaScript", "HTML5", "CSS3", "Tailwind CSS"],
+        backend: ["Node.js", "Express.js", "MongoDB", "MySQL"],
+        tools: ["Git", "VS Code", "Figma"]
+    },
+    currentlyLearning: ["Next.js", "TypeScript", "Advanced React Patterns"],
+    funFact: "I can debug for hours and the solution is usually a missing semicolon! 😅"
+};
+```
 
-![Snake animation](https://github.com/mdrijoanmaruf/mdrijoanmaruf/blob/output/github-contribution-grid-snake.svg)
+</div>
 
 ---
 
+<div align="center">
+  
 **⭐ If you like my work, give my repos a star! It motivates me to keep coding! ⭐**
 
-*"Code is like humor. When you have to explain it, it's bad."* 😄
+*"First, solve the problem. Then, write the code."* 💻
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100">
 
 </div>
