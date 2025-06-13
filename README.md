@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Md%20Rijoan%20Maruf&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
 <!-- Animated typing with multiple lines -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Full-Stack+Web+Developer+%F0%9F%9A%80;MERN+Stack+Specialist+%F0%9F%92%BB;From+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Full-Stack+Web+Developer+%F0%9F%9A%80;MERN+Stack+Specialist+%F0%9F%92%BB;From+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9" alt="Typing SVG" />
 
 <!-- Animated divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400">
@@ -94,64 +94,6 @@ hobbies: ["Coding", "Reading Tech Blogs", "Gaming", "Traveling"]
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=mdrijoanmaruf&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
-</div>
-
----
-
-<!-- Projects Section with Cards -->
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="32"> Featured Projects
-
-<div align="center">
-
-<!-- Coming Soon Section with Cool Animation -->
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" />
-
-### 🚀 **Awesome Projects Coming Soon!**
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284094-6a4a4c58-ad2b-4d86-9a1c-6b2b7d1c4e44.gif" width="50" />
-  <strong>Currently building amazing projects</strong>
-  <img src="https://user-images.githubusercontent.com/74038190/212284094-6a4a4c58-ad2b-4d86-9a1c-6b2b7d1c4e44.gif" width="50" />
-</div>
-
-<!-- Project Preview Cards -->
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://via.placeholder.com/400x200/0D1117/58A6FF?text=🚀+Full-Stack+Web+App" alt="Project 1" style="border-radius: 10px;" />
-      <br />
-      <strong>Full-Stack Web Application</strong>
-      <br />
-      <em>React • Node.js • MongoDB</em>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://via.placeholder.com/400x200/0D1117/FF6B6B?text=📱+Mobile+App" alt="Project 2" style="border-radius: 10px;" />
-      <br />
-      <strong>Mobile Application</strong>
-      <br />
-      <em>React Native • Firebase</em>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://via.placeholder.com/400x200/0D1117/1F6FEB?text=🔧+Developer+Tools" alt="Project 3" style="border-radius: 10px;" />
-      <br />
-      <strong>Developer Tools</strong>
-      <br />
-      <em>TypeScript • Next.js</em>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://via.placeholder.com/400x200/0D1117/FFD700?text=🌐+Portfolio+Website" alt="Project 4" style="border-radius: 10px;" />
-      <br />
-      <strong>Portfolio Website</strong>
-      <br />
-      <em>Next.js • Tailwind CSS</em>
-    </td>
-  </tr>
-</table>
-
-*Stay tuned for some amazing projects that I'm currently working on!* ⭐
-
 </div>
 
 ---
@@ -277,6 +219,9 @@ CSS          ██░░░░░░░░░░░░░░░░░░░    
 HTML         █░░░░░░░░░░░░░░░░░░░░    4.3%
 ```
 
+<!-- Cool Animation -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300" />
+
 </div>
 
 ---
@@ -301,6 +246,6 @@ HTML         █░░░░░░░░░░░░░░░░░░░░    
 </p>
 
 <!-- Last Updated -->
-<sub>🤖 This README was last updated on 2025-06-13 at 21:49 UTC</sub>
+<sub>🤖 This README was last updated on 2025-06-13 at 21:54 UTC</sub>
 
 </div>
