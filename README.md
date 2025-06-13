@@ -99,13 +99,17 @@
 
 <div align="center">
   
-### 💻 **Lines of Code & Productivity**
+### 💻 **Detailed Analytics**
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=mdrijoanmaruf&theme=tokyonight&hide_border=true" alt="Wakatime Stats" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mdrijoanmaruf&repo=your-awesome-project&theme=tokyonight&hide_border=true" alt="Pinned Repo" />
 
 ### 🌈 **Language Distribution**
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdrijoanmaruf&layout=donut&theme=tokyonight&hide_border=true" alt="Language Donut Chart" />
+
+### 📊 **Contribution Metrics**
+
+<img src="https://github-contributor-stats.vercel.app/api?username=mdrijoanmaruf&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Contribution Stats" />
 
 </div>
 
@@ -139,21 +143,64 @@
 
 ## 🎯 **Current Focus**
 
-<div align="center">
+<div align="left">
 
 ```javascript
 const mdrijoanmaruf = {
     location: "Bangladesh 🇧🇩",
     currentFocus: "Full-Stack Development",
     technologies: {
-        frontend: ["React", "JavaScript", "HTML5", "CSS3", "Tailwind CSS"],
-        backend: ["Node.js", "Express.js", "MongoDB", "MySQL"],
-        tools: ["Git", "VS Code", "Figma"]
+        frontend: [
+            "React", 
+            "JavaScript", 
+            "HTML5", 
+            "CSS3", 
+            "Tailwind CSS"
+        ],
+        backend: [
+            "Node.js", 
+            "Express.js", 
+            "MongoDB", 
+            "MySQL"
+        ],
+        tools: [
+            "Git", 
+            "VS Code", 
+            "Figma"
+        ]
     },
-    currentlyLearning: ["Next.js", "TypeScript", "Advanced React Patterns"],
+    currentlyLearning: [
+        "Next.js", 
+        "TypeScript", 
+        "Advanced React Patterns"
+    ],
     funFact: "I can debug for hours and the solution is usually a missing semicolon! 😅"
 };
 ```
+
+</div>
+
+---
+
+## 🔥 **Recent Activity**
+
+<div align="center">
+
+### 📅 **This Week I Spent My Time On**
+
+<!--START_SECTION:waka-->
+```text
+JavaScript   8 hrs 15 mins   ████████████░░░░░░░░░░░░░   48.32 %
+React        4 hrs 22 mins   ██████░░░░░░░░░░░░░░░░░░░   25.64 %
+CSS          2 hrs 8 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.53 %
+HTML         1 hr 45 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   10.31 %
+JSON         32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
+```
+<!--END_SECTION:waka-->
+
+### 🎪 **Fun Coding Facts**
+
+<img src="https://github-readme-stats.vercel.app/api?username=mdrijoanmaruf&show_icons=true&count_private=true&theme=tokyonight&custom_title=My%20GitHub%20Journey&hide_border=true" alt="GitHub Stats with Custom Title" />
 
 </div>
 
