@@ -1,94 +1,125 @@
-<h2 align="left">👋 Hi, I'm Md Rijoan Maruf!</h2>
-<h3 align="left">A passionate Web Developer from Bangladesh 🇧🇩</h3>
+<div align="center">
+  
+# 👋 Hey there, I'm **Md Rijoan Maruf**!
 
-###
+### 🚀 Full-Stack Web Developer | 🇧🇩 From Bangladesh | 💻 Code Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;MERN+Stack+Specialist;Always+Learning+New+Things;Building+Digital+Experiences" alt="Typing SVG" />
+
+</div>
+
+---
+
+<img align="right" height="200" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Coding Animation" />
+
+## 🎯 About Me
+
+- 🔭 I'm currently working on **MERN Stack projects**
+- 🌱 I'm learning **Next.js & TypeScript**
+- 👯 I'm looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **React, Node.js, MongoDB**
+- ⚡ Fun fact: I debug with console.log() and I'm proud of it! 😄
+
+<br clear="right"/>
+
+---
+
+## 🛠️ **Tech Arsenal**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdrijoanmaruf&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdrijoanmaruf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+### **Frontend**
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,materialui" />
+
+### **Backend**
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+
+### **Languages & Tools**
+<img src="https://skillicons.dev/icons?i=cpp,java,git,github,vscode,figma" />
+
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Coding Animation" />
-
-###
-
-### 🛠️ Tech Stack
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-</div>
-
-###
-
-### 🌐 Connect with Me
-
-<div align="left">
-  <a href="https://www.facebook.com/md.rijoanmaruf" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/mdrijoanmaruf/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/rijianmaruf" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-  <a href="https://www.instagram.com/rijoanmaruf/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://t.me/yourtelegram" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
-  <a href="https://wa.me/+8801813606468" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  </a>
-</div>
-
-###
-
-
-
-###
-
-### 🚀 Featured Projects
+## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img height="304" src="https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d" alt="Featured Project" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mdrijoanmaruf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdrijoanmaruf&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
-
-###
-
-### 📊 Profile Views
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/mdrijoanmaruf/count.svg?" alt="Profile Views" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdrijoanmaruf&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-###
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdrijoanmaruf&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
 
-⭐️ Feel free to explore my repositories and don't forget to star if you find something interesting!
+---
+
+## 🏆 **GitHub Trophies**
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mdrijoanmaruf&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 🚀 **Featured Projects**
+
+<div align="center">
+  
+### 🌟 **Coming Soon - Awesome Projects!**
+
+<img height="200" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Coding" />
+
+*Stay tuned for some amazing projects that I'm currently working on!*
+
+</div>
+
+---
+
+## 🤝 **Let's Connect!**
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdrijoanmaruf/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/md.rijoanmaruf)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/rijianmaruf)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rijoanmaruf/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+8801813606468)
+
+</div>
+
+---
+
+## 📈 **Profile Stats**
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=mdrijoanmaruf&color=blueviolet&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/mdrijoanmaruf?style=for-the-badge&color=blue)
+![Stars](https://img.shields.io/github/stars/mdrijoanmaruf?style=for-the-badge&color=yellow)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💭 **Random Dev Quote**
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 🐍 **Watch my contributions get eaten by a snake!**
+
+![Snake animation](https://github.com/mdrijoanmaruf/mdrijoanmaruf/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+**⭐ If you like my work, give my repos a star! It motivates me to keep coding! ⭐**
+
+*"Code is like humor. When you have to explain it, it's bad."* 😄
+
+</div>
