@@ -160,7 +160,7 @@ hobbies: ["Coding", "Reading Tech Blogs", "Gaming", "Traveling"]
 <!-- Current Focus Section -->
 ## <img src="https://user-images.githubusercontent.com/74038190/212284094-6a4a4c58-ad2b-4d86-9a1c-6b2b7d1c4e44.gif" width="32"> What I'm Up To
 
-<div align="center">
+<div align="left">
 
 ```typescript
 interface Developer {
@@ -251,9 +251,6 @@ HTML         █░░░░░░░░░░░░░░░░░░░░    
 <!-- Animated Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
 
-### 💬 **Random Dev Quote**
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 ---
 
 **🌟 "Code is poetry written in logic" 🌟**
@@ -264,10 +261,10 @@ HTML         █░░░░░░░░░░░░░░░░░░░░    
 <p>
   <a href="https://github.com/mdrijoanmaruf"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /></a>
   <a href="https://www.linkedin.com/in/mdrijoanmaruf/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:mdrijoanmaruf@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 <!-- Last Updated -->
-<sub>🤖 This README was last updated on 2025-06-13 at 21:39 UTC</sub>
+<sub>🤖 This README was last updated on 2025-06-13 at 21:43 UTC</sub>
 
 </div>
