@@ -47,7 +47,7 @@ hobbies: ["Coding", "Reading Tech Blogs", "Gaming", "Traveling"]
 
 <br clear="right"/>
 
----
+
 
 <!-- Tech Stack with animated icons -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Tech Stack
@@ -68,7 +68,7 @@ hobbies: ["Coding", "Reading Tech Blogs", "Gaming", "Traveling"]
 
 </div>
 
----
+
 
 <!-- GitHub Stats with modern cards -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> GitHub Analytics
@@ -87,7 +87,7 @@ hobbies: ["Coding", "Reading Tech Blogs", "Gaming", "Traveling"]
 
 </div>
 
----
+
 
 <!-- Trophies Section -->
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="32"> GitHub Trophies
@@ -96,7 +96,7 @@ hobbies: ["Coding", "Reading Tech Blogs", "Gaming", "Traveling"]
 <img src="https://github-profile-trophy.vercel.app/?username=mdrijoanmaruf&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
 </div>
 
----
+
 
 <!-- Detailed Analytics -->
 ## <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="32"> Detailed Analytics
@@ -113,7 +113,7 @@ hobbies: ["Coding", "Reading Tech Blogs", "Gaming", "Traveling"]
 
 </div>
 
----
+
 
 <!-- Social Links with Hover Effects -->
 ## <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-99112b0f4a9b.gif" width="32"> Let's Connect!
@@ -133,7 +133,7 @@ hobbies: ["Coding", "Reading Tech Blogs", "Gaming", "Traveling"]
 
 </div>
 
----
+
 
 <!-- Current Focus Section -->
 ## <img src="https://user-images.githubusercontent.com/74038190/212284094-6a4a4c58-ad2b-4d86-9a1c-6b2b7d1c4e44.gif" width="32"> What I'm Up To
@@ -190,7 +190,7 @@ const mdrijoanmaruf: Developer = {
 
 </div>
 
----
+
 
 <!-- Live Metrics -->
 ## <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="32"> Live Metrics
@@ -224,7 +224,7 @@ HTML         █░░░░░░░░░░░░░░░░░░░░    
 
 </div>
 
----
+
 
 <!-- Footer -->
 <div align="center">
