@@ -229,23 +229,7 @@ HTML         █░░░░░░░░░░░░░░░░░░░░    
 <!-- Footer -->
 <div align="center">
 
-<!-- Animated Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
-
----
-
-**🌟 "Code is poetry written in logic" 🌟**
-
-*Thanks for visiting my profile! Let's build something amazing together! 🚀*
-
-<!-- Social Icons Row -->
-<p>
-  <a href="https://github.com/mdrijoanmaruf"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /></a>
-  <a href="https://www.linkedin.com/in/mdrijoanmaruf/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
-  <a href="mailto:mdrijoanmaruf@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" /></a>
-</p>
-
-<!-- Last Updated -->
-<sub>🤖 This README was last updated on 2025-06-13 at 21:54 UTC</sub>
+<!-- Animated Footer with Thank You -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thank%20You!%20%F0%9F%99%8F&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=75" />
 
 </div>
