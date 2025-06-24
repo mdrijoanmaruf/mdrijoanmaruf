@@ -144,7 +144,7 @@ interface Developer {
   availableForWork: true;
   skills: {
     languages: string["HTML" , "CSS" , "JavaScript" , "NodeJS"];
-    frameworks: string["TailwindCSS" , "DaisiUI" , "NodeJS", "ExpressJS"];
+    frameworks: string["TailwindCSS" , "DaisiUI" ];
     databases: string["MongoDB"];
   };
   currentFocus: string["NextJS"];
@@ -168,8 +168,7 @@ interface Developer {
 <!-- Recent Activity -->
 ### 📊 **Recent Activity**
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+
 
 <!-- Coding Stats -->
 ### 💻 **This Week's Coding Time**
