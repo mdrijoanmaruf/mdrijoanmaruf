@@ -51,16 +51,16 @@ currently_learning:
 <div align="center">
 
 ### 🎨 **Frontend Development**
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,materialui,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,materialui,figma&theme=dark" />
 
 ### ⚙️ **Backend Development**
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,firebase,supabase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&theme=dark" />
 
 ### 🛠️ **Tools & Technologies**
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,docker,vercel,netlify&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vercel,netlify&theme=dark" />
 
 ### 📱 **Languages**
-<img src="https://skillicons.dev/icons?i=cpp,java,python,php&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js&theme=dark" />
 
 </div>
 
