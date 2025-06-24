@@ -19,30 +19,26 @@
 ```yaml
 name: Md Rijoan Maruf
 located_in: Dhaka, Bangladesh
-current_job: Full-Stack Developer
+current_work: Full-Stack Developer
 education: 
-  - "Computer Science & Engineering"
-  - "Always Learning New Technologies"
+  - "Computer Science & Engineering at AIUB"
 
 fields_of_interests:
   - "Web Development"
-  - "Mobile App Development"
-  - "UI/UX Design"
+  - "Full Stack Development"
+  - "MERN Stack Developmnet"
+  - "Fornt-End Development"
+  - "Back-end Developmnet"
   - "Open Source"
   
 currently_learning: 
   - "Next.js 15"
-  - "TypeScript"
-  - "React Native"
-  - "Advanced System Design"
 
-2024_goals:
+2025_goals:
   - "Contribute to Open Source Projects"
   - "Build Amazing Full-Stack Applications"
   - "Learn Cloud Technologies"
   - "Share Knowledge with Community"
-
-hobbies: ["Coding", "Reading Tech Blogs", "Gaming", "Traveling"]
 ```
 
 <br clear="right"/>
@@ -142,50 +138,17 @@ hobbies: ["Coding", "Reading Tech Blogs", "Gaming", "Traveling"]
 
 ```typescript
 interface Developer {
-  name: string;
-  location: string;
-  currentRole: string;
-  availableForWork: boolean;
+  name: "Md Rijoan Maruf";
+  location: "Dhaka, Bangladesh";
+  currentRole: Full Stack Web Developer;
+  availableForWork: true;
   skills: {
-    languages: string[];
-    frameworks: string[];
-    databases: string[];
-    tools: string[];
+    languages: string["HTML" , "CSS" , "JavaScript" , "NodeJS"];
+    frameworks: string["TailwindCSS" , "DaisiUI" , "NodeJS", "ExpressJS"];
+    databases: string["MongoDB"];
   };
-  currentFocus: string[];
-  goals2024: string[];
-  funFact: string;
+  currentFocus: string["NextJS"];
 }
-
-const mdrijoanmaruf: Developer = {
-  name: "Md Rijoan Maruf",
-  location: "Dhaka, Bangladesh 🇧🇩",
-  currentRole: "Full-Stack Developer",
-  availableForWork: true,
-  
-  skills: {
-    languages: ["JavaScript", "TypeScript", "Python", "Java", "C++"],
-    frameworks: ["React", "Next.js", "Node.js", "Express.js"],
-    databases: ["MongoDB", "PostgreSQL", "MySQL", "Firebase"],
-    tools: ["Git", "Docker", "VS Code", "Figma", "Postman"]
-  },
-  
-  currentFocus: [
-    "Building scalable web applications",
-    "Learning cloud technologies",
-    "Contributing to open source",
-    "Sharing knowledge with community"
-  ],
-  
-  goals2024: [
-    "Master Next.js and TypeScript",
-    "Contribute to 10+ open source projects",
-    "Build a SaaS application",
-    "Mentor junior developers"
-  ],
-  
-  funFact: "I can debug for hours and the bug is usually a typo! 🐛😅"
-};
 ```
 
 </div>
